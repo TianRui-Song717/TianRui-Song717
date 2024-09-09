@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about 🤖**AI**, **font-end**, and 📷**video making**
 
 ### Weight and Bias Activities (9th Sep. 2024)
-![image](https://github.com/user-attachments/assets/26f5f833-8106-4a39-9d93-4557d9c2a450)
+![image](https://github.com/user-attachments/assets/91bb6e82-704b-44bf-a825-bc8ce352f815)
 (see [https://wandb.ai/tianruisong717](https://wandb.ai/tianruisong717) for the most updated version)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianRui-Song717)](https://github.com/Christmas/github-readme-stats)-->
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tianrui-song717&show_icons=true&locale=en" alt="tianrui-song717" /></p>-->
