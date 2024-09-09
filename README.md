@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">🌟 I'm applying for the 2025 fall Ph.D. 🏫</h3>
 
-### I'm Tianrui Song
+### About me
 - 🔭 I’m currently working on **LLMs + Science** and **Recommender Systems**
 - 🌱 I’m currently applying for **Ph.D.**, start from 2025 fall.
 - 📍 I'm currently living in Guangzhou, China.
