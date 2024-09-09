@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tsong847@connect.hkust-gz.edu.cn
 - 💬 Ask me about 🤖**AI**, **font-end**, and 📷**video making**
 
+### Weight and Bias Activities
+- Below is the Wandb Activities of mine (see [https://wandb.ai/tianruisong717](https://wandb.ai/tianruisong717) for the most updated version)
+![image](https://github.com/user-attachments/assets/26f5f833-8106-4a39-9d93-4557d9c2a450)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianRui-Song717)](https://github.com/Christmas/github-readme-stats)-->
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tianrui-song717&show_icons=true&locale=en" alt="tianrui-song717" /></p>-->
 
@@ -47,4 +50,3 @@ Here are some ideas to get you started:
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
-
