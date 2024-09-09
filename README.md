@@ -18,10 +18,14 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Tianrui Song</h1>
-<h3 align="center">M.Phil. Student in AI at HKUST(GZ).</h3>
 
+<h3 align="center">🌟 I'm applying for the 2025 fall Ph.D. 🏫</h3>
+
+### I'm Tianrui Song
 - 🔭 I’m currently working on **LLMs + Science** and **Recommender Systems**
 - 🌱 I’m currently applying for **Ph.D.**, start from 2025 fall.
+- 📍 I'm currently living in Guangzhou, China.
+- 📫 How to reach me: tsong847@connect.hkust-gz.edu.cn
 - 💬 Ask me about 🤖**AI**, **font-end**, and 📷**video making**
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianRui-Song717)](https://github.com/Christmas/github-readme-stats)-->
