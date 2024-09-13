@@ -26,13 +26,22 @@ Here are some ideas to get you started:
 - 🌱 I’m currently applying for **Ph.D.**, start from 2025 fall.
 - 📍 I'm currently living in Guangzhou, China.
 - 📫 How to reach me: tsong847@connect.hkust-gz.edu.cn
-- 💬 Ask me about 🤖**AI**, [**font-end**](https://2020.igem.org/Team:NAU-CHINA), back-end, and 📷**video making**
+- 💬 Ask me about 🤖**AI**, **font-end**, **back-end**, and 📷**video making**
 
 ### Weight and Bias Activities (9th Sep. 2024)
 ![image](https://github.com/user-attachments/assets/91bb6e82-704b-44bf-a825-bc8ce352f815)
 (see [https://wandb.ai/tianruisong717](https://wandb.ai/tianruisong717) for the most updated version)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianRui-Song717)](https://github.com/Christmas/github-readme-stats)-->
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tianrui-song717&show_icons=true&locale=en" alt="tianrui-song717" /></p>-->
+
+### My Academic Projects
+- LLMs + Denoise Recommender Systems (first author, under review)
+- LLMS + MEMS Packaging design (M.Phil. Project, ongoing)
+- Denoise Recommender System (ongoing, target: SIGIR/ICML) 
+- LLMs Data Science Agent (Exploring)
+
+### My Development Projects
+- 🖥️ iGEM 2020 - wiki: [https://2020.igem.org/Team:NAU-CHINA](https://2020.igem.org/Team:NAU-CHINA)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
