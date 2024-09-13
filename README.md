@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### About me
 - 🔭 I’m currently working on **LLMs Application** and **Recommender Systems**
-- 🌱 I’m currently applying for **Ph.D.**, start from 2025 fall.
+- 🌱 I’m currently applying for **Ph.D.**, starting from 2025 fall.
 - 📍 I'm currently living in Guangzhou, China.
 - 📫 How to reach me: tsong847@connect.hkust-gz.edu.cn
 - 💬 Ask me about 🤖**AI**, **font-end**, **back-end**, and 📷**video making**
