@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 ---
 ### My Academic Projects
 - **LLMs + Denoise Recommender Systems** (`first author`, `under review`)
+
+  _Focus on the misclassification issue of hard samples and noise samples in recommender systems._
 - **LLMS + MEMS Packaging design** (`M.Phil. Project`, `ongoing`)
   <figure>
     <img src="https://github.com/user-attachments/assets/ff743cd0-70c4-4d6a-82d0-a5d0597e99ea" width=290/>
