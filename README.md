@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently applying for **Ph.D.**, start from 2025 fall.
 - 📍 I'm currently living in Guangzhou, China.
 - 📫 How to reach me: tsong847@connect.hkust-gz.edu.cn
-- 💬 Ask me about 🤖**AI**, [**font-end**](https://2020.igem.org/Team:NAU-CHINA), and 📷**video making**
+- 💬 Ask me about 🤖**AI**, [**font-end**](https://2020.igem.org/Team:NAU-CHINA), back-end, and 📷**video making**
 
 ### Weight and Bias Activities (9th Sep. 2024)
 ![image](https://github.com/user-attachments/assets/91bb6e82-704b-44bf-a825-bc8ce352f815)
