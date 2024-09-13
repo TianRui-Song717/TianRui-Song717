@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about 🤖**AI**, **font-end**, **back-end**, and 📷**video making**
 
 ### Weight and Bias Activities (9th Sep. 2024)
+I am _**actively**_ conducting experiments using Wandb.
 ![image](https://github.com/user-attachments/assets/91bb6e82-704b-44bf-a825-bc8ce352f815)
 (see [https://wandb.ai/tianruisong717](https://wandb.ai/tianruisong717) for the most updated version)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianRui-Song717)](https://github.com/Christmas/github-readme-stats)-->
