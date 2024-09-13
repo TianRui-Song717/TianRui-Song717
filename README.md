@@ -35,15 +35,15 @@ Here are some ideas to get you started:
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tianrui-song717&show_icons=true&locale=en" alt="tianrui-song717" /></p>-->
 
 ### My Academic Projects
-- **LLMs + Denoise Recommender Systems** (first author, under review)
-- **LLMS + MEMS Packaging design** (M.Phil. Project, ongoing)
+- **LLMs + Denoise Recommender Systems** (`first author`, `under review`)
+- **LLMS + MEMS Packaging design** (`M.Phil. Project`, `ongoing`)
   <figure>
     <img src="https://github.com/user-attachments/assets/ff743cd0-70c4-4d6a-82d0-a5d0597e99ea" width=290/>
     <img src="https://github.com/user-attachments/assets/549149cd-0a75-455f-862d-38e409aed0cf" width=200/>
   </figure>
 
-- **Denoise Recommender System** (ongoing, target: SIGIR/ICML) 
-- **LLMs Data Science Agent** (Exploring)
+- **Denoise Recommender System** (`ongoing`, `target: 2025 SIGIR/ICML`) 
+- **LLMs Data Science Agent** (`Exploring`)
 
 ### My Development Projects
 - 🖥️ iGEM 2020 - wiki: [https://2020.igem.org/Team:NAU-CHINA](https://2020.igem.org/Team:NAU-CHINA)
