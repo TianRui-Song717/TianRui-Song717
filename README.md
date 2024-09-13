@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tianrui-song717&show_icons=true&locale=en" alt="tianrui-song717" /></p>-->
 
 ### My Academic Projects
-- LLMs + Denoise Recommender Systems (first author, under review)
-- LLMS + MEMS Packaging design (M.Phil. Project, ongoing)
-- Denoise Recommender System (ongoing, target: SIGIR/ICML) 
-- LLMs Data Science Agent (Exploring)
+- **LLMs + Denoise Recommender Systems** (first author, under review)
+- **LLMS + MEMS Packaging design** (M.Phil. Project, ongoing)
+- **Denoise Recommender System** (ongoing, target: SIGIR/ICML) 
+- **LLMs Data Science Agent** (Exploring)
 
 ### My Development Projects
 - 🖥️ iGEM 2020 - wiki: [https://2020.igem.org/Team:NAU-CHINA](https://2020.igem.org/Team:NAU-CHINA)
