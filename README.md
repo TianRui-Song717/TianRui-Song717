@@ -34,12 +34,13 @@ I am _**actively**_ conducting experiments using Wandb.
 (see [https://wandb.ai/tianruisong717](https://wandb.ai/tianruisong717) for the most updated version)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianRui-Song717)](https://github.com/Christmas/github-readme-stats)-->
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tianrui-song717&show_icons=true&locale=en" alt="tianrui-song717" /></p>-->
+---
+### Publication
+- `UNDER REVIEW` **Tianrui Song**, Wenshuo Chao, Hao Liu. **"Large Language Model Enhanced Hard Sample Identification for Denoising Recommendation."** arXiv preprint arXiv:2409.10343 (2024). https://arxiv.org/abs/2409.10343
 
 ---
-### My Academic Projects
-- **LLMs + Denoise Recommender Systems** (`first author`, `under review`)
+### My AI Projects
 
-  _Focus on the misclassification issue between hard and noisy samples in recommender systems._
 - **LLMS + MEMS Packaging design** (`M.Phil. Project`, `ongoing`)
   <figure>
     <img src="https://github.com/user-attachments/assets/ff743cd0-70c4-4d6a-82d0-a5d0597e99ea" width=290/>
