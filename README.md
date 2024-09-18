@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/user-attachments/assets/549149cd-0a75-455f-862d-38e409aed0cf" width=200/>
   </figure>
 
-- **Cross-lingual Instruction Tuning**(`ongoing`)
+- **Cross-lingual Instruction Tuning for Low resource language models**(`ongoing`)
 - **Denoise Recommender System Sampler Design** (`conducting experiment`, `target: 2025 SIGIR/ICML`) 
 - **LLMs Data Science Agent** (`Exploring`)
 
