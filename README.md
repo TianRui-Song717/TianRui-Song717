@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tianrui-song717&show_icons=true&locale=en" alt="tianrui-song717" /></p>-->
 ---
 ### 📚 Publications
-- `UNDER REVIEW` **Tianrui Song**, Wenshuo Chao, Hao Liu. **"Large Language Model Enhanced Hard Sample Identification for Denoising Recommendation."** arXiv preprint arXiv:2409.10343 (2024). https://arxiv.org/abs/2409.10343
+- `AAAI 2026` **Tianrui Song**, Wenshuo Chao, Hao Liu. **"Hard vs. Noise: Resolving Hard-Noisy Sample Confusion in Recommender Systems via Large Language Models."
+- `NeurIPS 2025` Fan Liu, Zherui Yang, Cancheng Liu, *Tianrui Song*, Xiaofeng Gao, Hao Liu. MM-Agent: LLM as Agents for Real-world Mathematical Modeling Problem
 
 ---
 ### 🤖 My AI Projects
