@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Tianrui Song</h1>
 
-<h3 align="center">🌟 I'm applying for the 2026 fall Ph.D. 🏫</h3>
+<h3 align="center">🌟 I am now an incoming PhD @ Edinburgh (NLP-CDT) supervised by Prof. Frank Keller 🏫</h3>
 
 ### About me
 - 🔭 I’m currently working on **LLMs**
-- 🌱 I’m currently applying for **Ph.D.**, starting from 2026 fall.
+- 🌱 I’m currently an incoming PhD @ Edinburgh (NLP-CDT) supervised by Prof. Frank Keller.
 - 📍 I'm currently living in Guangzhou, China.
 - 📫 How to reach me: t.song25@imperial.ac.uk, tsong847@connect.hkust-gz.edu.cn
 - 💬 Ask me about 🤖**AI**, **font-end**, **back-end**, and 📷**video making**
